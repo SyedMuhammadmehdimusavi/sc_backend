@@ -6,6 +6,11 @@ name = "pypi"
 [packages]
 django = "*"
 gunicorn = "*"
+pip = "*"
+install = "*"
+djangorestframework = "*"
+markdown = "*"
+django-filter = "*"
 
 [dev-packages]
 
